@@ -9,9 +9,19 @@ import Typography from "@mui/material/Typography";
 
 export default function MediaCard({ title, description, image, imageTitle }) {
   return (
-    <Card sx={{ maxWidth: 345 }}>
+    <Card
+      sx={{
+        maxWidth: 345,
+      }}
+    >
       <CardMedia sx={{ height: 140 }} image={image} title={imageTitle} />
-      <CardContent>
+      <CardContent
+        sx={{
+          bgColor: "rgba(0, 107, 179, 0.15)",
+          color: "white",
+          backdropFilter: "blur(10px)",
+        }}
+      >
         <Typography gutterBottom variant="h5" component="div">
           {title}
         </Typography>

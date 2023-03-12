@@ -1,5 +1,4 @@
 import * as React from "react";
-import "./FullWidthTabs.scss";
 import PropTypes from "prop-types";
 import { useTheme } from "@mui/material/styles";
 import AppBar from "@mui/material/AppBar";
@@ -65,6 +64,9 @@ export default function FullWidthTabs() {
       sx={{
         bgcolor: "background.paper",
         width: "100vw",
+        height: "100%",
+        minHeight: "89vh",
+        backgroundImage: `url(${image})`,
       }}
     >
       <AppBar position="static">
@@ -87,11 +89,7 @@ export default function FullWidthTabs() {
           <Tab label="ProtoTypes & WireFrames" {...a11yProps(5)} />
         </Tabs>
       </AppBar>
-      <TabPanel
-        value={value}
-        index={0}
-        dir={theme.direction}
-      >
+      <TabPanel value={value} index={0} dir={theme.direction}>
         <SlideOne />
       </TabPanel>
       <TabPanel value={value} index={1} dir={theme.direction}>

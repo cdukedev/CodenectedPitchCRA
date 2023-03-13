@@ -1,14 +1,13 @@
 import "./Header.scss";
 import React from "react";
-import { Link } from "react-router-dom";
 import logo from "../../assets/logos/logo.png";
 
 const Header = () => {
   return (
     <header className="header">
-      <Link to="/">
+      <a href="https://www.codenected.live/">
         <img className="header__img" src={logo} alt="Codenected Logo" />
-      </Link>
+      </a>
       <nav className="header__nav">
         <ul className="header__list-items"></ul>
       </nav>

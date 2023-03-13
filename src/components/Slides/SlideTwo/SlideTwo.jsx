@@ -68,25 +68,25 @@ const SlideTwo = () => {
               <Card
                 className="main__card"
                 title="Non-Profits"
-                description="Local Businesses in need of technology to help them achieve their goals"
+                description="Organizations local and global in need of technology to help them achieve their goals"
                 image={nonProfits}
-                imageTitle="design steps"
+                imageTitle="Donotions and Volunteers"
               />
             </CardActionArea>
             <CardActionArea sx={cards} onClick={() => setProblem("Students")}>
               <Card
                 className="main__card"
                 title="Students"
-                description="Local Businesses in need of technology to help them achieve their goals"
+                description="Seeking real-world and meaningful experience in technology"
                 image={students}
-                imageTitle="design steps"
+                imageTitle="Study Group"
               />
             </CardActionArea>
             <CardActionArea sx={cards} onClick={() => setProblem("Bootcamps")}>
               <Card
                 className="main__card"
                 title="Bootcamps"
-                description="Local Businesses in need of technology to help them achieve their goals"
+                description="Seeking access to diverse and inspired students and professionals to enhance their programs."
                 image={bootcamps}
                 imageTitle="design steps"
               />

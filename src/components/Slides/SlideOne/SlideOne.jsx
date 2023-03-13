@@ -8,10 +8,10 @@ const SlideOne = () => {
         <h1 className="slide-one__title">Mission Driven</h1>
         <div className="slide-one__text-container">
           <p className="slide-one__text">
-            At Codenected, we are driven by a passion for technology and a
-            desire to unite and empower people and communities. Our mission is
-            to create a replicable platform where students, organizations, and
-            the local population can collaborate to build, learn, and positively
+            At Codenected, we're driven by a passion for technology and a desire
+            to unite and empower people and communities. Our mission is to
+            create a replicable platform where students, organizations, and the
+            local population can collaborate to build, learn, and positively
             impact the lives of their families, friends, coworkers, and
             neighbors. We have the potential to break down the barriers that
             prevent people from utilizing the total value of tech and make it
@@ -24,16 +24,16 @@ const SlideOne = () => {
         </div>
       </div>
       <div className="bottom">
-        <h1 className="slide-one__title">Current Vision</h1>
+        <h1 className="slide-one__title">Current Goals</h1>
         <p className="slide-one__text">
           With a focus on empowering students in South Florida, our team is on a
           quest to bridge the gap between the wealth of talent in the student
           population and the pressing needs of local organizations. We are
           developing a platform that will uncover the most impactful services
-          and projects for these organizations, providing students with
-          opportunities to put their skills and ideas to the test and make a
-          real impact in their communities. Join us as we strive to create a
-          better future through the power of technology and collaboration.
+          and projects for local organizations, providing students with
+          opportunities to test their skills and ideas while making a real
+          impact in their communities. Join us as we strive to create a better
+          future through the power of technology and collaboration.
         </p>
       </div>
     </section>

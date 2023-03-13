@@ -9,68 +9,34 @@ const SlideThree = () => {
           <div className="how__left-main-text">
             <h2>Services</h2>
             <p className="how">
-              The technology industry is constantly evolving and growing, but
-              not everyone has equal access to the resources and opportunities
-              to participate in this growth. This disparity affects not only
-              individuals but also small businesses and non-profit organizations
-              in under-served communities, who struggle to keep up with the
-              rapid pace of technological advancements. Meanwhile, students
-              interested in pursuing a career in technology face a number of
-              challenges, including a lack of experience in real-world tech
-              projects and difficulty finding meaningful opportunities to gain
-              experience. This, in turn, affects their ability to build a
-              desirable resume and to make a positive impact in the world.
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellat quisquam iusto voluptatem tempora perferendis reiciendis, reprehenderit amet saepe deserunt molestiae quas quaerat quae optio illo praesentium earum delectus animi consectetur? Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim distinctio quos unde accusamus facere sequi laboriosam corporis odio, nostrum itaque quod et eum cum incidunt voluptatem amet, nulla error nemo. 
             </p>
           </div>
           <div className="how__left-main-text">
-            <h2>Services</h2>
+            <h2>Platform</h2>
             <p className="how">
-              The technology industry is constantly evolving and growing, but
-              not everyone has equal access to the resources and opportunities
-              to participate in this growth. This disparity affects not only
-              individuals but also small businesses and non-profit organizations
-              in under-served communities, who struggle to keep up with the
-              rapid pace of technological advancements. Meanwhile, students
-              interested in pursuing a career in technology face a number of
-              challenges, including a lack of experience in real-world tech
-              projects and difficulty finding meaningful opportunities to gain
-              experience. This, in turn, affects their ability to build a
-              desirable resume and to make a positive impact in the world.
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellat quisquam iusto voluptatem tempora perferendis reiciendis, reprehenderit amet saepe deserunt molestiae quas quaerat quae optio illo praesentium earum delectus animi consectetur? Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim distinctio quos unde accusamus facere sequi laboriosam corporis odio, nostrum itaque quod et eum cum incidunt voluptatem amet, nulla error nemo. 
             </p>
           </div>
         </article>
         <article className="how__left">
           <div className="how__left-main-text">
-            <h2>Services</h2>
+            <h2>Partnerships</h2>
             <p className="how">
-              The technology industry is constantly evolving and growing, but
-              not everyone has equal access to the resources and opportunities
-              to participate in this growth. This disparity affects not only
-              individuals but also small businesses and non-profit organizations
-              in under-served communities, who struggle to keep up with the
-              rapid pace of technological advancements. Meanwhile, students
-              interested in pursuing a career in technology face a number of
-              challenges, including a lack of experience in real-world tech
-              projects and difficulty finding meaningful opportunities to gain
-              experience. This, in turn, affects their ability to build a
-              desirable resume and to make a positive impact in the world.
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repellat quisquam iusto voluptatem tempora perferendis reiciendis, reprehenderit amet saepe deserunt molestiae quas quaerat quae optio illo praesentium earum delectus animi consectetur? Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim distinctio quos unde accusamus facere sequi laboriosam corporis odio, nostrum itaque quod et eum cum incidunt voluptatem amet, nulla error nemo. ç
             </p>
           </div>
           <div className="how__left-main-text">
-            <h2>Services</h2>
-            <p className="how">
-              The technology industry is constantly evolving and growing, but
-              not everyone has equal access to the resources and opportunities
-              to participate in this growth. This disparity affects not only
-              individuals but also small businesses and non-profit organizations
-              in under-served communities, who struggle to keep up with the
-              rapid pace of technological advancements. Meanwhile, students
-              interested in pursuing a career in technology face a number of
-              challenges, including a lack of experience in real-world tech
-              projects and difficulty finding meaningful opportunities to gain
-              experience. This, in turn, affects their ability to build a
-              desirable resume and to make a positive impact in the world.
-            </p>
+            <h2>Solutions</h2>
+            <pre className="how">
+    The Solution 
+What is your value proposition?
+Screenshot or demo of your PRODUCT/SERVICE or record screen video walking the audience through the solution.
+How many clients do you have?
+What they want and why? Why will they choose you instead of your competition?
+What do you develop based on their feedback?
+Walk me through how it works using a case or explaining the processes involved.
+            </pre>
           </div>
         </article>
       </section>

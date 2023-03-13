@@ -96,7 +96,7 @@ export default function FullWidthTabs() {
         <SlideTwo />
       </TabPanel>
       <TabPanel value={value} index={2} dir={theme.direction}>
-        Component 3
+        <SlideThree />
       </TabPanel>
       <TabPanel value={value} index={3} dir={theme.direction}>
         Component 4
